@@ -1,0 +1,12 @@
+D:\Projects\Fristproject\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Projects\Fristproject\DAL\bin\Debug\net8.0\DAL.dll
+D:\Projects\Fristproject\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.dll
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Projects\Fristproject\DAL\obj\Debug\net8.0\ref\DAL.dll

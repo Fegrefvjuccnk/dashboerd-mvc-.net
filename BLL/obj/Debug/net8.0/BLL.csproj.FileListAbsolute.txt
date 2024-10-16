@@ -1,0 +1,15 @@
+D:\Projects\Fristproject\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Projects\Fristproject\BLL\bin\Debug\net8.0\BLL.dll
+D:\Projects\Fristproject\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Projects\Fristproject\BLL\bin\Debug\net8.0\DAL.dll
+D:\Projects\Fristproject\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.dll
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Projects\Fristproject\BLL\obj\Debug\net8.0\ref\BLL.dll

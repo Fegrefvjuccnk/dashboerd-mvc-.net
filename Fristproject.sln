@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FristprojectPL", "Fristproject\FristprojectPL.csproj", "{4B4D0BAF-5A9B-4CBE-94E3-298778758EEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{4A2C54E3-197C-4636-9EE8-C3472EBD506C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{634AEBC0-259B-4678-8CC3-846F7737360D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4D0BAF-5A9B-4CBE-94E3-298778758EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4D0BAF-5A9B-4CBE-94E3-298778758EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4D0BAF-5A9B-4CBE-94E3-298778758EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4D0BAF-5A9B-4CBE-94E3-298778758EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2C54E3-197C-4636-9EE8-C3472EBD506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2C54E3-197C-4636-9EE8-C3472EBD506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2C54E3-197C-4636-9EE8-C3472EBD506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2C54E3-197C-4636-9EE8-C3472EBD506C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634AEBC0-259B-4678-8CC3-846F7737360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634AEBC0-259B-4678-8CC3-846F7737360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634AEBC0-259B-4678-8CC3-846F7737360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634AEBC0-259B-4678-8CC3-846F7737360D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC201FEE-76C0-4EE5-92F3-74AE19C47539}
+	EndGlobalSection
+EndGlobal
